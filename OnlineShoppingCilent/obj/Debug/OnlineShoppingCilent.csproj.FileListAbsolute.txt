@@ -1,0 +1,88 @@
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.LoginForm.resources
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.Properties.Resources.resources
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.GenerateResource.cache
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.ShopperForm.resources
+C:\Users\lavis\source\repos\PRG650_Project V13 server and login working with messeages - Copy\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V13 server and login working with messeages - Copy\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.LoginForm.resources
+C:\Users\lavis\source\repos\PRG650_Project V13 server and login working with messeages - Copy\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.Properties.Resources.resources
+C:\Users\lavis\source\repos\PRG650_Project V13 server and login working with messeages - Copy\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.ShopperForm.resources
+C:\Users\lavis\source\repos\PRG650_Project V13 server and login working with messeages - Copy\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.GenerateResource.cache
+C:\Users\lavis\source\repos\PRG650_Project V13 server and login working with messeages - Copy\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V13 server and login working with messeages - Copy\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project V13 server and login working with messeages - Copy\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project V13 server and login working with messeages - Copy\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V13 server and login working with messeages - Copy\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project V13 server and login working with messeages - Copy\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.LoginForm.resources
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.Properties.Resources.resources
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.ShopperForm.resources
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.GenerateResource.cache
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project V15\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V15\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project V15\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project V15\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V15\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.LoginForm.resources
+C:\Users\lavis\source\repos\PRG650_Project V15\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.Properties.Resources.resources
+C:\Users\lavis\source\repos\PRG650_Project V15\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.ShopperForm.resources
+C:\Users\lavis\source\repos\PRG650_Project V15\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.GenerateResource.cache
+C:\Users\lavis\source\repos\PRG650_Project V15\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V15\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project V15\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project VOngoing\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe.config
+C:\Users\lavis\source\repos\PRG650_Project VOngoing\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project VOngoing\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project VOngoing\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project VOngoing\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.LoginForm.resources
+C:\Users\lavis\source\repos\PRG650_Project VOngoing\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.Properties.Resources.resources
+C:\Users\lavis\source\repos\PRG650_Project VOngoing\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.ShopperForm.resources
+C:\Users\lavis\source\repos\PRG650_Project VOngoing\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.GenerateResource.cache
+C:\Users\lavis\source\repos\PRG650_Project VOngoing\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project VOngoing\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project VOngoing\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project V16\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V16\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project V16\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project V16\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V16\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.LoginForm.resources
+C:\Users\lavis\source\repos\PRG650_Project V16\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.Properties.Resources.resources
+C:\Users\lavis\source\repos\PRG650_Project V16\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.ShopperForm.resources
+C:\Users\lavis\source\repos\PRG650_Project V16\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.GenerateResource.cache
+C:\Users\lavis\source\repos\PRG650_Project V16\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V16\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project V16\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe.config
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.LoginForm.resources
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.Properties.Resources.resources
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.ShopperForm.resources
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.GenerateResource.cache
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project V25\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V25\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project V25\OnlineShoppingCilent\bin\Debug\OnlineShoppingCilent.pdb
+C:\Users\lavis\source\repos\PRG650_Project V25\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V25\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.LoginForm.resources
+C:\Users\lavis\source\repos\PRG650_Project V25\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.Properties.Resources.resources
+C:\Users\lavis\source\repos\PRG650_Project V25\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.ShopperForm.resources
+C:\Users\lavis\source\repos\PRG650_Project V25\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.GenerateResource.cache
+C:\Users\lavis\source\repos\PRG650_Project V25\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V25\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.exe
+C:\Users\lavis\source\repos\PRG650_Project V25\OnlineShoppingCilent\obj\Debug\OnlineShoppingCilent.pdb

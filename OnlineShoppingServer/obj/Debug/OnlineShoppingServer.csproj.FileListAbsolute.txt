@@ -1,0 +1,77 @@
+C:\Users\lavis\source\repos\PRG650_Project\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe.config
+C:\Users\lavis\source\repos\PRG650_Project\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V2\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V2\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V2\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V2\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V2\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V2\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V2\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V3\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V3\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V3\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V3\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V3\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V3\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V3\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V4\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V4\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V4\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V4\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V4\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V4\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V4\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V5\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V5\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V5\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V5\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V5\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V5\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V5\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V6\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V6\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V6\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V6\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V6\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V6\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V6\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V7\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V7\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V7\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V7\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V7\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V7\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V7\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V8-Only cancellation token left\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V8-Only cancellation token left\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V8-Only cancellation token left\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V8-Only cancellation token left\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V8-Only cancellation token left\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V8-Only cancellation token left\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V8-Only cancellation token left\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V10 Client Start\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe.config
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project V14 LoginForm fully working\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe.config
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingServer\bin\Debug\OnlineShoppingServer.pdb
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.exe
+C:\Users\lavis\source\repos\PRG650_Project VMain\OnlineShoppingServer\obj\Debug\OnlineShoppingServer.pdb
